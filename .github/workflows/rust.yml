@@ -22,4 +22,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Artifacts
-        path: target/release/
+        path: target/release/phira-mp-server
